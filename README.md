@@ -3,3 +3,5 @@
 可选的 option有：
 * `p`, 用来指定端口号。
 * `d`, 用来指定静态服务器的根路径
+# 效果图
+![效果图](http://static.ak-lee.info/akserver.png)
